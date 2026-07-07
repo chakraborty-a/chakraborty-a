@@ -1,5 +1,5 @@
-# Hi, I'm Amitava Chakraborty 👋
+Hi, I'm Amitava Chakraborty 👋
 
-**Omniscient AI Services**
+- Omniscient AI Services
 
-- 📧 [amitavachakraborty28@gmail.com](mailto:amitavachakraborty28@gmail.com)
+- [amitavachakraborty28@gmail.com](mailto:amitavachakraborty28@gmail.com)
